@@ -13,6 +13,7 @@ import {
     NAME,
     DESCRIPTION,
     SELECTOR,
+    MORE_INFO_CONTENT_CHILDREN,
     ESCAPE_REG_EXP,
     ALL_FILTER
 } from '@constants';
@@ -52,12 +53,7 @@ class CustomAttributes {
             .query(SELECTOR.MORE_INFO_CONTENT)
             .$
             .query(
-                [
-                    SELECTOR.MORE_INFO_DEFAULT,
-                    SELECTOR.MORE_INFO_VACUUM,
-                    SELECTOR.MORE_INFO_LIGHT,
-                    SELECTOR.MORE_INFO_SIREN
-                ].join(',')
+                MORE_INFO_CONTENT_CHILDREN.join(',')
             )
             .$
             .query(SELECTOR.HA_ATTRIBUTES)
