@@ -29,7 +29,7 @@ custom_attributes:
 
 ## Installation
 
-<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=mariusthvdb&repository=custom_attributes&category=plugin" target="_blank" rel="noreferrer noopener"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open your Home Assistant instance and open a repository inside the Home Assistant Community Store." /></a>
+<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=Mariusthvdb&repository=custom-attributes&category=plugin" target="_blank" rel="noreferrer noopener"><img src="https://my.home-assistant.io/badges/hacs_repository.svg" alt="Open your Home Assistant instance and open a repository inside the Home Assistant Community Store." /></a>
 
 ## Configuration options
 
