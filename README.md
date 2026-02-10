@@ -6,6 +6,13 @@
 [![GH-last-commit](https://img.shields.io/github/last-commit/Mariusthvdb/custom-attributes.svg?style=flat-square)](https://github.com/Mariusthvdb/custom-attributes/commits/master)
 [![GH-code-size](https://img.shields.io/github/languages/code-size/Mariusthvdb/custom-attributes.svg?color=red&style=flat-square)](https://github.com/Mariusthvdb/custom-attributes)
 
+
+### WARNING!
+
+please see https://github.com/Mariusthvdb/custom-attributes/discussions/52, this plugin is broken because Home Assistant changed the way it handles attributes in the more-info dialog.
+
+## Dont install this until a confirmed fix is released.
+
 ### What is Custom attributes
 
 This is a custom Plugin for Home Assistant to customize *which entity attributes are displayed* in the Dashboard on `more-info` cards.
